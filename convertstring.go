@@ -14,3 +14,4 @@ func StrToFloat(s string) (float64) {
     
     return num
 }
+
